@@ -1,0 +1,16 @@
+[
+{
+"DeviceName": "磺嘴山站(HUZS)",//站名，僅顯示在軟體UI中的測站名稱
+"IP": "10.10.10.10",//觀測站儀器的IP
+"Port": 21,//FTP使用的Port，預設為21
+"UserName": "xxx",//FTP使用者帳號，地調所所屬測站預設為cgs
+"Password": "xxx",//FTP使用者密碼，地調所所屬測站預設為cgs@1234
+"ReSamplingRate": 15,//預設值為15
+"ConvertedFileType": 3,//預設值為3
+"SyncRemoteFileIntervalInSec": 30,//預設值為30
+"GrfFileRootFolder": "[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\\raw",//原始檔存檔路徑
+"ConvertedFileRootFolder": "[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\\Converted",//轉換後檔按存檔路徑
+"ConvertedFileTimeZone": 480,//臺灣地區預設值為480
+"Enable": false//啟用
+}
+]
