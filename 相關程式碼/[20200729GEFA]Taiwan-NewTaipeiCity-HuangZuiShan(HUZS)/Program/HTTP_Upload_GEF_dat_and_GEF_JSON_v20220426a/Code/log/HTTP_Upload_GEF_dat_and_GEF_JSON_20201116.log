@@ -1,0 +1,2876 @@
+現在時間: 2020-11-16 12:39:39
+檢查時間: 2020-11-15 12:39:39
+本地dat檔案不完整，請手動處理...不完整的資料夾:..\..\..\Converted\..\..\..\Converted\Y2020\M11\D15\
+檢查時間: 2020-11-14 12:39:39
+本地dat檔案不完整，請手動處理...不完整的資料夾:..\..\..\Converted\..\..\..\Converted\Y2020\M11\D14\
+檢查時間: 2020-11-13 12:39:39
+本地dat檔案不完整，請手動處理...不完整的資料夾:..\..\..\Converted\..\..\..\Converted\Y2020\M11\D13\
+檢查時間: 2020-11-12 12:39:39
+本地dat檔案存在!檢查遠端檔案是否存在...
+遠端GEF_JSON存在!略過!
+檢查時間: 2020-11-11 12:39:41
+本地dat檔案存在!檢查遠端檔案是否存在...
+遠端GEF_JSON存在!略過!
+--
+需要檢查的日期
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_07_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_07_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_07_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_07_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_07_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_07_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_07_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_07_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_07_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_07_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_07_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_07_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_08_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_08_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_08_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_08_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_08_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_08_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_08_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_08_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_08_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_08_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_08_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_08_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_09_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_09_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_09_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_09_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_09_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_09_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_09_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_09_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_09_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_09_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_09_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_09_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_10_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_10_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_10_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_10_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_10_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_10_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_10_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_10_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_10_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_10_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_10_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_10_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_11_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_11_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_11_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_11_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_11_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_11_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_11_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_11_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_11_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_11_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_11_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_11_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_12_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_12_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_12_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_12_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_12_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_12_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_12_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_12_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_12_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_12_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_12_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_12_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_13_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_13_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_13_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_13_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_13_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_13_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_13_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_13_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_13_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_13_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_13_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_13_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_14_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_14_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_14_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_14_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_14_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_14_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_14_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_14_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_14_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_14_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_14_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_14_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_15_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_15_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_15_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_15_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_15_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_15_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_15_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_15_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_15_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_15_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_15_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_15_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_16_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_16_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_16_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_16_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_16_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_16_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_16_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_16_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_16_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_16_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_16_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_16_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_17_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_17_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_17_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_17_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_17_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_17_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_17_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_17_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_17_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_17_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_17_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_17_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_18_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_18_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_18_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_18_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_18_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_18_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_18_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_18_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_18_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_18_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_18_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_18_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_19_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_19_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_19_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_19_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_19_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_19_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_19_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_19_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_19_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_19_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_19_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_19_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_20_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_20_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_20_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_20_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_20_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_20_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_20_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_20_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_20_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_20_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_20_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_20_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_21_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_21_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_21_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_21_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_21_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_21_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_21_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_21_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_21_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_21_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_21_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_21_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_22_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_22_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_22_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_22_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_22_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_22_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_22_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_22_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_22_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_22_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_22_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_22_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_23_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_23_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_23_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_23_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_23_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_23_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_23_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_23_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_23_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_23_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D10\2020_11_10_23_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_10_23_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_00_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_00_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_00_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_00_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_00_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_00_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_00_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_00_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_00_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_00_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_00_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_00_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_01_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_01_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_01_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_01_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_01_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_01_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_01_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_01_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_01_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_01_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_01_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_01_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_02_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_02_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_02_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_02_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_02_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_02_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_02_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_02_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_02_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_02_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_02_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_02_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_03_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_03_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_03_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_03_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_03_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_03_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_03_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_03_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_03_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_03_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_03_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_03_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_04_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_04_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_04_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_04_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_04_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_04_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_04_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_04_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_04_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_04_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_04_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_04_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_05_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_05_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_05_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_05_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_05_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_05_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_05_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_05_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_05_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_05_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_05_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_05_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_06_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_06_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_06_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_06_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_06_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_06_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_06_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_06_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_06_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_06_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_06_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_06_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_07_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_07_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_07_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_07_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_07_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_07_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_07_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_07_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_07_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_07_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_07_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_07_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_08_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_08_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_08_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_08_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_08_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_08_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_08_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_08_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_08_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_08_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_08_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_08_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_09_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_09_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_09_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_09_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_09_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_09_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_09_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_09_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_09_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_09_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_09_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_09_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_10_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_10_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_10_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_10_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_10_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_10_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_10_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_10_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_10_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_10_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_10_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_10_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_11_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_11_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_11_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_11_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_11_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_11_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_11_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_11_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_11_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_11_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_11_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_11_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_12_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_12_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_12_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_12_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_12_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_12_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_12_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_12_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_12_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_12_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+使用者關閉程式!
+遠端GEF_JSON存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_12_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_12_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_13_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_13_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_13_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_13_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_13_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_13_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_13_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_13_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_13_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_13_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_13_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_13_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_14_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_14_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_14_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_14_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_14_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_14_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_14_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_14_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_14_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_14_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_14_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_14_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_15_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_15_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_15_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_15_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_15_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_15_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_15_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_15_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_15_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_15_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_15_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_15_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_16_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_16_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_16_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_16_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_16_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_16_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_16_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_16_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_16_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_16_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_16_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_16_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_17_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_17_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_17_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_17_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_17_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_17_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_17_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_17_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_17_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_17_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_17_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_17_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#36 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D11\2020_11_11_18_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_11_18_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+現在時間: 2020-11-16 12:41:30
+檢查時間: 2020-11-15 12:41:30
+本地dat檔案不完整，請手動處理...不完整的資料夾:..\..\..\Converted\..\..\..\Converted\Y2020\M11\D15\
+檢查時間: 2020-11-14 12:41:30
+本地dat檔案不完整，請手動處理...不完整的資料夾:..\..\..\Converted\..\..\..\Converted\Y2020\M11\D14\
+檢查時間: 2020-11-13 12:41:30
+本地dat檔案不完整，請手動處理...不完整的資料夾:..\..\..\Converted\..\..\..\Converted\Y2020\M11\D13\
+檢查時間: 2020-11-12 12:41:30
+本地dat檔案存在!檢查遠端檔案是否存在...
+遠端GEF_JSON存在!略過!
+檢查時間: 2020-11-11 12:41:31
+本地dat檔案存在!檢查遠端檔案是否存在...
+遠端GEF_JSON存在!略過!
+--
+需要檢查的日期
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_05_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_05_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_05_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_05_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_05_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_05_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_05_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_05_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_05_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_05_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_05_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_05_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_06_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_06_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_06_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_06_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_06_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_06_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_06_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_06_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_06_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_06_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_06_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_06_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_07_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_07_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_07_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_07_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_07_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_07_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_07_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_07_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_07_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_07_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_07_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_07_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_08_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_08_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_08_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_08_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_08_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_08_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_08_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_08_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_08_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_08_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_08_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_08_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_09_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_09_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_09_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_09_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_09_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_09_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_09_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_09_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_09_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_09_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_09_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_09_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_10_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_10_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_10_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_10_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_10_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_10_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_10_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_10_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_10_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_10_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#6 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_10_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_10_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_11_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_11_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_11_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_11_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_11_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_11_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_11_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_11_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_11_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_11_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#7 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_11_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_11_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_12_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_12_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_12_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_12_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_12_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_12_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_12_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_12_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_12_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_12_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#8 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_12_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_12_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_13_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_13_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_13_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_13_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_13_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_13_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_13_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_13_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_13_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_13_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#9 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_13_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_13_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_14_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_14_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_14_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_14_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_14_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_14_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_14_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_14_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_14_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_14_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#10 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_14_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_14_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_15_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_15_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_15_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_15_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_15_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_15_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_15_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_15_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_15_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_15_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#11 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_15_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_15_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_16_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_16_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_16_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_16_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_16_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_16_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_16_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_16_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_16_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_16_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#12 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_16_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_16_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_17_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_17_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_17_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_17_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_17_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_17_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_17_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_17_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_17_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_17_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#13 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_17_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_17_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_18_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_18_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_18_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_18_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_18_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_18_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_18_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_18_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_18_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_18_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#14 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_18_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_18_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_19_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_19_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_19_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_19_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_19_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_19_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_19_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_19_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_19_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_19_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#15 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_19_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_19_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_20_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_20_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_20_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_20_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_20_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_20_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_20_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_20_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_20_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_13_20_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON不存在!需要轉檔並上傳!
+轉檔目標:..\..\..\Converted\Y2020\M11\D13\2020_11_13_20_40_00.dat
+紀錄起始時間(台北時間):2020-11-13 20:40:0
+轉檔成功!上傳檔案!
+上傳檔案成功!刪除本地檔案!
+--
+#16 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_20_50_00.dat
+本地dat檔案不存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_21_00_00.dat
+本地dat檔案不存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_21_10_00.dat
+本地dat檔案不存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_21_20_00.dat
+本地dat檔案不存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_21_30_00.dat
+本地dat檔案不存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_21_40_00.dat
+本地dat檔案不存在!略過!
+--
+#17 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_21_50_00.dat
+本地dat檔案不存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_22_00_00.dat
+本地dat檔案不存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_22_10_00.dat
+本地dat檔案不存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_22_20_00.dat
+本地dat檔案不存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_22_30_00.dat
+本地dat檔案不存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_22_40_00.dat
+本地dat檔案不存在!略過!
+--
+#18 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_22_50_00.dat
+本地dat檔案不存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_23_00_00.dat
+本地dat檔案不存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_23_10_00.dat
+本地dat檔案不存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_23_20_00.dat
+本地dat檔案不存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_23_30_00.dat
+本地dat檔案不存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_23_40_00.dat
+本地dat檔案不存在!略過!
+--
+#19 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D13\2020_11_13_23_50_00.dat
+本地dat檔案不存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_00_00_00.dat
+本地dat檔案不存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_00_10_00.dat
+本地dat檔案不存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_00_20_00.dat
+本地dat檔案不存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_00_30_00.dat
+本地dat檔案不存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_00_40_00.dat
+本地dat檔案不存在!略過!
+--
+#20 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_00_50_00.dat
+本地dat檔案不存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_01_00_00.dat
+本地dat檔案不存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_01_10_00.dat
+本地dat檔案不存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_01_20_00.dat
+本地dat檔案不存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_01_30_00.dat
+本地dat檔案不存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_01_40_00.dat
+本地dat檔案不存在!略過!
+--
+#21 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_01_50_00.dat
+本地dat檔案不存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_02_00_00.dat
+本地dat檔案不存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_02_10_00.dat
+本地dat檔案不存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_02_20_00.dat
+本地dat檔案不存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_02_30_00.dat
+本地dat檔案不存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_02_40_00.dat
+本地dat檔案不存在!略過!
+--
+#22 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_02_50_00.dat
+本地dat檔案不存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_03_00_00.dat
+本地dat檔案不存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_03_10_00.dat
+本地dat檔案不存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_03_20_00.dat
+本地dat檔案不存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_03_30_00.dat
+本地dat檔案不存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_03_40_00.dat
+本地dat檔案不存在!略過!
+--
+#23 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_03_50_00.dat
+本地dat檔案不存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_04_00_00.dat
+本地dat檔案不存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_04_10_00.dat
+本地dat檔案不存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_04_20_00.dat
+本地dat檔案不存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_04_30_00.dat
+本地dat檔案不存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_04_40_00.dat
+本地dat檔案不存在!略過!
+--
+#24 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_04_50_00.dat
+本地dat檔案不存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_05_00_00.dat
+本地dat檔案不存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_05_10_00.dat
+本地dat檔案不存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_05_20_00.dat
+本地dat檔案不存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_05_30_00.dat
+本地dat檔案不存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_05_40_00.dat
+本地dat檔案不存在!略過!
+--
+#25 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_05_50_00.dat
+本地dat檔案不存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_06_00_00.dat
+本地dat檔案不存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_06_10_00.dat
+本地dat檔案不存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_06_20_00.dat
+本地dat檔案不存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_06_30_00.dat
+本地dat檔案不存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_06_40_00.dat
+本地dat檔案不存在!略過!
+--
+#26 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_06_50_00.dat
+本地dat檔案不存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_07_00_00.dat
+本地dat檔案不存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_07_10_00.dat
+本地dat檔案不存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_07_20_00.dat
+本地dat檔案不存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_07_30_00.dat
+本地dat檔案不存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_07_40_00.dat
+本地dat檔案不存在!略過!
+--
+#27 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_07_50_00.dat
+本地dat檔案不存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_08_00_00.dat
+本地dat檔案不存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_08_10_00.dat
+本地dat檔案不存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_08_20_00.dat
+本地dat檔案不存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_08_30_00.dat
+本地dat檔案不存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_08_40_00.dat
+本地dat檔案不存在!略過!
+--
+#28 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_08_50_00.dat
+本地dat檔案不存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_09_00_00.dat
+本地dat檔案不存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_09_10_00.dat
+本地dat檔案不存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_09_20_00.dat
+本地dat檔案不存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_09_30_00.dat
+本地dat檔案不存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_09_40_00.dat
+本地dat檔案不存在!略過!
+--
+#29 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_09_50_00.dat
+本地dat檔案不存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_10_00_00.dat
+本地dat檔案不存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_10_10_00.dat
+本地dat檔案不存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_10_20_00.dat
+本地dat檔案不存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_10_30_00.dat
+本地dat檔案不存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_10_40_00.dat
+本地dat檔案不存在!略過!
+--
+#30 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_10_50_00.dat
+本地dat檔案不存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_11_00_00.dat
+本地dat檔案不存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_11_10_00.dat
+本地dat檔案不存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_11_20_00.dat
+本地dat檔案不存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_11_30_00.dat
+本地dat檔案不存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_11_40_00.dat
+本地dat檔案不存在!略過!
+--
+#31 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_11_50_00.dat
+本地dat檔案不存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_12_00_00.dat
+本地dat檔案不存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_12_10_00.dat
+本地dat檔案不存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_12_20_00.dat
+本地dat檔案不存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_12_30_00.dat
+本地dat檔案不存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_12_40_00.dat
+本地dat檔案不存在!略過!
+--
+#32 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_12_50_00.dat
+本地dat檔案不存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_13_00_00.dat
+本地dat檔案不存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_13_10_00.dat
+本地dat檔案不存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_13_20_00.dat
+本地dat檔案不存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_13_30_00.dat
+本地dat檔案不存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_13_40_00.dat
+本地dat檔案不存在!略過!
+--
+#33 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_13_50_00.dat
+本地dat檔案不存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_14_00_00.dat
+本地dat檔案不存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_14_10_00.dat
+本地dat檔案不存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_14_20_00.dat
+本地dat檔案不存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_14_30_00.dat
+本地dat檔案不存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_14_40_00.dat
+本地dat檔案不存在!略過!
+--
+#34 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_14_50_00.dat
+本地dat檔案不存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_15_00_00.dat
+本地dat檔案不存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_15_10_00.dat
+本地dat檔案不存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_15_20_00.dat
+本地dat檔案不存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_15_30_00.dat
+本地dat檔案不存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_15_40_00.dat
+本地dat檔案不存在!略過!
+--
+#35 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_15_50_00.dat
+本地dat檔案不存在!略過!
+--
+#36 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_16_00_00.dat
+本地dat檔案不存在!略過!
+--
+#36 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_16_10_00.dat
+本地dat檔案不存在!略過!
+--
+#36 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_16_20_00.dat
+本地dat檔案不存在!略過!
+--
+#36 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_16_30_00.dat
+本地dat檔案不存在!略過!
+--
+#36 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_16_40_00.dat
+本地dat檔案不存在!略過!
+--
+#36 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_16_50_00.dat
+本地dat檔案不存在!略過!
+--
+#37 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_17_00_00.dat
+本地dat檔案不存在!略過!
+--
+#37 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_17_10_00.dat
+本地dat檔案不存在!略過!
+--
+#37 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_17_20_00.dat
+本地dat檔案不存在!略過!
+--
+#37 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_17_30_00.dat
+本地dat檔案不存在!略過!
+--
+#37 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_17_40_00.dat
+本地dat檔案不存在!略過!
+--
+#37 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_17_50_00.dat
+本地dat檔案不存在!略過!
+--
+#38 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_18_00_00.dat
+本地dat檔案不存在!略過!
+--
+#38 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_18_10_00.dat
+本地dat檔案不存在!略過!
+--
+#38 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_18_20_00.dat
+本地dat檔案不存在!略過!
+--
+#38 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_18_30_00.dat
+本地dat檔案不存在!略過!
+--
+#38 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_18_40_00.dat
+本地dat檔案不存在!略過!
+--
+#38 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_18_50_00.dat
+本地dat檔案不存在!略過!
+--
+#39 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_19_00_00.dat
+本地dat檔案不存在!略過!
+--
+#39 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_19_10_00.dat
+本地dat檔案不存在!略過!
+--
+#39 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_19_20_00.dat
+本地dat檔案不存在!略過!
+--
+#39 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_19_30_00.dat
+本地dat檔案不存在!略過!
+--
+#39 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_19_40_00.dat
+本地dat檔案不存在!略過!
+--
+#39 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_19_50_00.dat
+本地dat檔案不存在!略過!
+--
+#40 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_20_00_00.dat
+本地dat檔案不存在!略過!
+--
+#40 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_20_10_00.dat
+本地dat檔案不存在!略過!
+--
+#40 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_20_20_00.dat
+本地dat檔案不存在!略過!
+--
+#40 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_20_30_00.dat
+本地dat檔案不存在!略過!
+--
+#40 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_20_40_00.dat
+本地dat檔案不存在!略過!
+--
+#40 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_20_50_00.dat
+本地dat檔案不存在!略過!
+--
+#41 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_21_00_00.dat
+本地dat檔案不存在!略過!
+--
+#41 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_21_10_00.dat
+本地dat檔案不存在!略過!
+--
+#41 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_21_20_00.dat
+本地dat檔案不存在!略過!
+--
+#41 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_21_30_00.dat
+本地dat檔案不存在!略過!
+--
+#41 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_21_40_00.dat
+本地dat檔案不存在!略過!
+--
+#41 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_21_50_00.dat
+本地dat檔案不存在!略過!
+--
+#42 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_22_00_00.dat
+本地dat檔案不存在!略過!
+--
+#42 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_22_10_00.dat
+本地dat檔案不存在!略過!
+--
+#42 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_22_20_00.dat
+本地dat檔案不存在!略過!
+--
+#42 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_22_30_00.dat
+本地dat檔案不存在!略過!
+--
+#42 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_22_40_00.dat
+本地dat檔案不存在!略過!
+--
+#42 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_22_50_00.dat
+本地dat檔案不存在!略過!
+--
+#43 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_23_00_00.dat
+本地dat檔案不存在!略過!
+--
+#43 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_23_10_00.dat
+本地dat檔案不存在!略過!
+--
+#43 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_23_20_00.dat
+本地dat檔案不存在!略過!
+--
+#43 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_23_30_00.dat
+本地dat檔案不存在!略過!
+--
+#43 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_23_40_00.dat
+本地dat檔案不存在!略過!
+--
+#43 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D14\2020_11_14_23_50_00.dat
+本地dat檔案不存在!略過!
+--
+#44 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_00_00_00.dat
+本地dat檔案不存在!略過!
+--
+#44 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_00_10_00.dat
+本地dat檔案不存在!略過!
+--
+#44 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_00_20_00.dat
+本地dat檔案不存在!略過!
+--
+#44 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_00_30_00.dat
+本地dat檔案不存在!略過!
+--
+#44 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_00_40_00.dat
+本地dat檔案不存在!略過!
+--
+#44 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_00_50_00.dat
+本地dat檔案不存在!略過!
+--
+#45 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_01_00_00.dat
+本地dat檔案不存在!略過!
+--
+#45 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_01_10_00.dat
+本地dat檔案不存在!略過!
+--
+#45 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_01_20_00.dat
+本地dat檔案不存在!略過!
+--
+#45 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_01_30_00.dat
+本地dat檔案不存在!略過!
+--
+#45 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_01_40_00.dat
+本地dat檔案不存在!略過!
+--
+#45 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_01_50_00.dat
+本地dat檔案不存在!略過!
+--
+#46 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_02_00_00.dat
+本地dat檔案不存在!略過!
+--
+#46 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_02_10_00.dat
+本地dat檔案不存在!略過!
+--
+#46 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_02_20_00.dat
+本地dat檔案不存在!略過!
+--
+#46 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_02_30_00.dat
+本地dat檔案不存在!略過!
+--
+#46 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_02_40_00.dat
+本地dat檔案不存在!略過!
+--
+#46 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_02_50_00.dat
+本地dat檔案不存在!略過!
+--
+#47 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_03_00_00.dat
+本地dat檔案不存在!略過!
+--
+#47 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_03_10_00.dat
+本地dat檔案不存在!略過!
+--
+#47 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_03_20_00.dat
+本地dat檔案不存在!略過!
+--
+#47 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_03_30_00.dat
+本地dat檔案不存在!略過!
+--
+#47 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_03_40_00.dat
+本地dat檔案不存在!略過!
+--
+#47 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_03_50_00.dat
+本地dat檔案不存在!略過!
+--
+#48 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_04_00_00.dat
+本地dat檔案不存在!略過!
+--
+#48 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_04_10_00.dat
+本地dat檔案不存在!略過!
+--
+#48 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_04_20_00.dat
+本地dat檔案不存在!略過!
+--
+#48 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_04_30_00.dat
+本地dat檔案不存在!略過!
+--
+#48 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_04_40_00.dat
+本地dat檔案不存在!略過!
+--
+#48 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_04_50_00.dat
+本地dat檔案不存在!略過!
+--
+#49 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_05_00_00.dat
+本地dat檔案不存在!略過!
+--
+#49 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_05_10_00.dat
+本地dat檔案不存在!略過!
+--
+#49 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_05_20_00.dat
+本地dat檔案不存在!略過!
+--
+#49 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_05_30_00.dat
+本地dat檔案不存在!略過!
+--
+#49 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_05_40_00.dat
+本地dat檔案不存在!略過!
+--
+#49 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_05_50_00.dat
+本地dat檔案不存在!略過!
+--
+#50 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_06_00_00.dat
+本地dat檔案不存在!略過!
+--
+#50 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_06_10_00.dat
+本地dat檔案不存在!略過!
+--
+#50 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_06_20_00.dat
+本地dat檔案不存在!略過!
+--
+#50 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_06_30_00.dat
+本地dat檔案不存在!略過!
+--
+#50 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_06_40_00.dat
+本地dat檔案不存在!略過!
+--
+#50 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_06_50_00.dat
+本地dat檔案不存在!略過!
+--
+#51 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_07_00_00.dat
+本地dat檔案不存在!略過!
+--
+#51 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_07_10_00.dat
+本地dat檔案不存在!略過!
+--
+#51 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_07_20_00.dat
+本地dat檔案不存在!略過!
+--
+#51 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_07_30_00.dat
+本地dat檔案不存在!略過!
+--
+#51 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_07_40_00.dat
+本地dat檔案不存在!略過!
+--
+#51 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_07_50_00.dat
+本地dat檔案不存在!略過!
+--
+#52 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_08_00_00.dat
+本地dat檔案不存在!略過!
+--
+#52 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_08_10_00.dat
+本地dat檔案不存在!略過!
+--
+#52 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_08_20_00.dat
+本地dat檔案不存在!略過!
+--
+#52 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_08_30_00.dat
+本地dat檔案不存在!略過!
+--
+#52 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_08_40_00.dat
+本地dat檔案不存在!略過!
+--
+#52 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_08_50_00.dat
+本地dat檔案不存在!略過!
+--
+#53 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_09_00_00.dat
+本地dat檔案不存在!略過!
+--
+#53 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_09_10_00.dat
+本地dat檔案不存在!略過!
+--
+#53 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_09_20_00.dat
+本地dat檔案不存在!略過!
+--
+#53 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_09_30_00.dat
+本地dat檔案不存在!略過!
+--
+#53 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_09_40_00.dat
+本地dat檔案不存在!略過!
+--
+#53 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_09_50_00.dat
+本地dat檔案不存在!略過!
+--
+#54 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_10_00_00.dat
+本地dat檔案不存在!略過!
+--
+#54 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_10_10_00.dat
+本地dat檔案不存在!略過!
+--
+#54 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_10_20_00.dat
+本地dat檔案不存在!略過!
+--
+#54 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_10_30_00.dat
+本地dat檔案不存在!略過!
+--
+#54 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_10_40_00.dat
+本地dat檔案不存在!略過!
+--
+#54 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_10_50_00.dat
+本地dat檔案不存在!略過!
+--
+#55 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_11_00_00.dat
+本地dat檔案不存在!略過!
+--
+#55 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_11_10_00.dat
+本地dat檔案不存在!略過!
+--
+#55 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_11_20_00.dat
+本地dat檔案不存在!略過!
+--
+#55 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_11_30_00.dat
+本地dat檔案不存在!略過!
+--
+#55 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_11_40_00.dat
+本地dat檔案不存在!略過!
+--
+#55 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_11_50_00.dat
+本地dat檔案不存在!略過!
+--
+#56 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_12_00_00.dat
+本地dat檔案不存在!略過!
+--
+#56 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_12_10_00.dat
+本地dat檔案不存在!略過!
+--
+#56 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_12_20_00.dat
+本地dat檔案不存在!略過!
+--
+#56 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_12_30_00.dat
+本地dat檔案不存在!略過!
+--
+#56 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_12_40_00.dat
+本地dat檔案不存在!略過!
+--
+#56 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_12_50_00.dat
+本地dat檔案不存在!略過!
+--
+#57 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_13_00_00.dat
+本地dat檔案不存在!略過!
+--
+#57 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_13_10_00.dat
+本地dat檔案不存在!略過!
+--
+#57 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_13_20_00.dat
+本地dat檔案不存在!略過!
+--
+#57 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_13_30_00.dat
+本地dat檔案不存在!略過!
+--
+#57 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_13_40_00.dat
+本地dat檔案不存在!略過!
+--
+#57 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_13_50_00.dat
+本地dat檔案不存在!略過!
+--
+#58 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_14_00_00.dat
+本地dat檔案不存在!略過!
+--
+#58 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_14_10_00.dat
+本地dat檔案不存在!略過!
+--
+#58 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_14_20_00.dat
+本地dat檔案不存在!略過!
+--
+#58 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_14_30_00.dat
+本地dat檔案不存在!略過!
+--
+#58 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_14_40_00.dat
+本地dat檔案不存在!略過!
+--
+#58 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_14_50_00.dat
+本地dat檔案不存在!略過!
+--
+#59 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_15_00_00.dat
+本地dat檔案不存在!略過!
+--
+#59 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_15_10_00.dat
+本地dat檔案不存在!略過!
+--
+#59 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_15_20_00.dat
+本地dat檔案不存在!略過!
+--
+#59 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_15_30_00.dat
+本地dat檔案不存在!略過!
+--
+#59 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_15_40_00.dat
+本地dat檔案不存在!略過!
+--
+#59 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_15_50_00.dat
+本地dat檔案不存在!略過!
+--
+#60 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_16_00_00.dat
+本地dat檔案不存在!略過!
+--
+#60 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_16_10_00.dat
+本地dat檔案不存在!略過!
+--
+#60 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_16_20_00.dat
+本地dat檔案不存在!略過!
+--
+#60 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_16_30_00.dat
+本地dat檔案不存在!略過!
+--
+#60 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_16_40_00.dat
+本地dat檔案不存在!略過!
+--
+#60 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_16_50_00.dat
+本地dat檔案不存在!略過!
+--
+#61 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_17_00_00.dat
+本地dat檔案不存在!略過!
+--
+#61 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_17_10_00.dat
+本地dat檔案不存在!略過!
+--
+#61 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_17_20_00.dat
+本地dat檔案不存在!略過!
+--
+#61 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_17_30_00.dat
+本地dat檔案不存在!略過!
+--
+#61 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_17_40_00.dat
+本地dat檔案不存在!略過!
+--
+#61 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_17_50_00.dat
+本地dat檔案不存在!略過!
+--
+#62 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_18_00_00.dat
+本地dat檔案不存在!略過!
+--
+#62 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_18_10_00.dat
+本地dat檔案不存在!略過!
+--
+#62 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_18_20_00.dat
+本地dat檔案不存在!略過!
+--
+#62 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_18_30_00.dat
+本地dat檔案不存在!略過!
+--
+#62 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_18_40_00.dat
+本地dat檔案不存在!略過!
+--
+#62 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_18_50_00.dat
+本地dat檔案不存在!略過!
+--
+#63 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_19_00_00.dat
+本地dat檔案不存在!略過!
+--
+#63 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_19_10_00.dat
+本地dat檔案不存在!略過!
+--
+#63 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_19_20_00.dat
+本地dat檔案不存在!略過!
+--
+#63 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_19_30_00.dat
+本地dat檔案不存在!略過!
+--
+#63 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_19_40_00.dat
+本地dat檔案不存在!略過!
+--
+#63 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_19_50_00.dat
+本地dat檔案不存在!略過!
+--
+#64 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_20_00_00.dat
+本地dat檔案不存在!略過!
+--
+#64 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_20_10_00.dat
+本地dat檔案不存在!略過!
+--
+#64 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_20_20_00.dat
+本地dat檔案不存在!略過!
+--
+#64 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_20_30_00.dat
+本地dat檔案不存在!略過!
+--
+#64 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_20_40_00.dat
+本地dat檔案不存在!略過!
+--
+#64 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_20_50_00.dat
+本地dat檔案不存在!略過!
+--
+#65 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_21_00_00.dat
+本地dat檔案不存在!略過!
+--
+#65 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_21_10_00.dat
+本地dat檔案不存在!略過!
+--
+#65 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_21_20_00.dat
+本地dat檔案不存在!略過!
+--
+#65 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_21_30_00.dat
+本地dat檔案不存在!略過!
+--
+#65 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_21_40_00.dat
+本地dat檔案不存在!略過!
+--
+#65 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_21_50_00.dat
+本地dat檔案不存在!略過!
+--
+#66 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_22_00_00.dat
+本地dat檔案不存在!略過!
+--
+#66 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_22_10_00.dat
+本地dat檔案不存在!略過!
+--
+#66 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_22_20_00.dat
+本地dat檔案不存在!略過!
+--
+#66 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_22_30_00.dat
+本地dat檔案不存在!略過!
+--
+#66 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_22_40_00.dat
+本地dat檔案不存在!略過!
+--
+#66 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_22_50_00.dat
+本地dat檔案不存在!略過!
+--
+#67 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_23_00_00.dat
+本地dat檔案不存在!略過!
+--
+#67 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_23_10_00.dat
+本地dat檔案不存在!略過!
+--
+#67 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_23_20_00.dat
+本地dat檔案不存在!略過!
+--
+#67 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_23_30_00.dat
+本地dat檔案不存在!略過!
+--
+#67 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_23_40_00.dat
+本地dat檔案不存在!略過!
+--
+#67 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D15\2020_11_15_23_50_00.dat
+本地dat檔案不存在!略過!
+--
+#68 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_00_00_00.dat
+本地dat檔案不存在!略過!
+--
+#68 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_00_10_00.dat
+本地dat檔案不存在!略過!
+--
+#68 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_00_20_00.dat
+本地dat檔案不存在!略過!
+--
+#68 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_00_30_00.dat
+本地dat檔案不存在!略過!
+--
+#68 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_00_40_00.dat
+本地dat檔案不存在!略過!
+--
+#68 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_00_50_00.dat
+本地dat檔案不存在!略過!
+--
+#69 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_01_00_00.dat
+本地dat檔案不存在!略過!
+--
+#69 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_01_10_00.dat
+本地dat檔案不存在!略過!
+--
+#69 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_01_20_00.dat
+本地dat檔案不存在!略過!
+--
+#69 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_01_30_00.dat
+本地dat檔案不存在!略過!
+--
+#69 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_01_40_00.dat
+本地dat檔案不存在!略過!
+--
+#69 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_01_50_00.dat
+本地dat檔案不存在!略過!
+--
+#70 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_02_00_00.dat
+本地dat檔案不存在!略過!
+--
+#70 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_02_10_00.dat
+本地dat檔案不存在!略過!
+--
+#70 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_02_20_00.dat
+本地dat檔案不存在!略過!
+--
+#70 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_02_30_00.dat
+本地dat檔案不存在!略過!
+--
+#70 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_02_40_00.dat
+本地dat檔案不存在!略過!
+--
+#70 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_02_50_00.dat
+本地dat檔案不存在!略過!
+--
+#71 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_03_00_00.dat
+本地dat檔案不存在!略過!
+--
+#71 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_03_10_00.dat
+本地dat檔案不存在!略過!
+--
+#71 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_03_20_00.dat
+本地dat檔案不存在!略過!
+--
+#71 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_03_30_00.dat
+本地dat檔案不存在!略過!
+--
+#71 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_03_40_00.dat
+本地dat檔案不存在!略過!
+--
+#71 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_03_50_00.dat
+本地dat檔案不存在!略過!
+--
+#72 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_04_00_00.dat
+本地dat檔案不存在!略過!
+--
+#72 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_04_10_00.dat
+本地dat檔案不存在!略過!
+--
+#72 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_04_20_00.dat
+本地dat檔案不存在!略過!
+--
+#72 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_04_30_00.dat
+本地dat檔案不存在!略過!
+--
+#72 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_04_40_00.dat
+本地dat檔案不存在!略過!
+--
+#72 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_04_50_00.dat
+本地dat檔案不存在!略過!
+--
+#73 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_05_00_00.dat
+本地dat檔案不存在!略過!
+--
+#73 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_05_10_00.dat
+本地dat檔案不存在!略過!
+--
+#73 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_05_20_00.dat
+本地dat檔案不存在!略過!
+--
+#73 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_05_30_00.dat
+本地dat檔案不存在!略過!
+--
+#73 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_05_40_00.dat
+本地dat檔案不存在!略過!
+--
+#73 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_05_50_00.dat
+本地dat檔案不存在!略過!
+--
+#74 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_06_00_00.dat
+本地dat檔案不存在!略過!
+--
+#74 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_06_10_00.dat
+本地dat檔案不存在!略過!
+--
+#74 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_06_20_00.dat
+本地dat檔案不存在!略過!
+--
+#74 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_06_30_00.dat
+本地dat檔案不存在!略過!
+--
+#74 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_06_40_00.dat
+本地dat檔案不存在!略過!
+--
+#74 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_06_50_00.dat
+本地dat檔案不存在!略過!
+--
+#75 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_07_00_00.dat
+本地dat檔案不存在!略過!
+--
+#75 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_07_10_00.dat
+本地dat檔案不存在!略過!
+--
+#75 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_07_20_00.dat
+本地dat檔案不存在!略過!
+--
+#75 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_07_30_00.dat
+本地dat檔案不存在!略過!
+--
+#75 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_07_40_00.dat
+本地dat檔案不存在!略過!
+--
+#75 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_07_50_00.dat
+本地dat檔案不存在!略過!
+--
+#76 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_08_00_00.dat
+本地dat檔案不存在!略過!
+--
+#76 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_08_10_00.dat
+本地dat檔案不存在!略過!
+--
+#76 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_08_20_00.dat
+本地dat檔案不存在!略過!
+--
+#76 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_08_30_00.dat
+本地dat檔案不存在!略過!
+--
+#76 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_08_40_00.dat
+本地dat檔案不存在!略過!
+--
+#76 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_08_50_00.dat
+本地dat檔案不存在!略過!
+--
+#77 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_09_00_00.dat
+本地dat檔案不存在!略過!
+--
+#77 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_09_10_00.dat
+本地dat檔案不存在!略過!
+--
+#77 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_09_20_00.dat
+本地dat檔案不存在!略過!
+--
+#77 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_09_30_00.dat
+本地dat檔案不存在!略過!
+--
+#77 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_09_40_00.dat
+本地dat檔案不存在!略過!
+--
+#77 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_09_50_00.dat
+本地dat檔案不存在!略過!
+--
+#78 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_10_00_00.dat
+本地dat檔案不存在!略過!
+--
+#78 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_10_10_00.dat
+本地dat檔案不存在!略過!
+--
+#78 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_10_20_00.dat
+本地dat檔案不存在!略過!
+--
+#78 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_10_30_00.dat
+本地dat檔案不存在!略過!
+--
+#78 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_10_40_00.dat
+本地dat檔案不存在!略過!
+--
+#78 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_10_50_00.dat
+本地dat檔案不存在!略過!
+--
+#79 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_11_00_00.dat
+本地dat檔案不存在!略過!
+--
+#79 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_11_10_00.dat
+本地dat檔案不存在!略過!
+--
+#79 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_11_20_00.dat
+本地dat檔案不存在!略過!
+--
+#79 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_11_30_00.dat
+本地dat檔案不存在!略過!
+--
+#79 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_11_40_00.dat
+本地dat檔案不存在!略過!
+--
+#79 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_11_50_00.dat
+本地dat檔案不存在!略過!
+--
+#80 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_00_00.dat
+本地dat檔案不存在!略過!
+--
+#80 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_10_00.dat
+本地dat檔案不存在!略過!
+--
+#80 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_20_00.dat
+本地dat檔案不存在!略過!
+--
+#80 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_30_00.dat
+本地dat檔案不存在!略過!
+--
+#80 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_40_00.dat
+本地dat檔案不存在!略過!
+--
+#80 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_50_00.dat
+本地dat檔案不存在!略過!
+--
+--
+現在時間: 2020-11-16 16:46:25
+檢查時間: 2020-11-15 16:46:25
+本地dat檔案存在!檢查遠端檔案是否存在...
+遠端GEF_JSON存在!略過!
+檢查時間: 2020-11-14 16:46:25
+本地dat檔案存在!檢查遠端檔案是否存在...
+遠端GEF_JSON存在!略過!
+檢查時間: 2020-11-13 16:46:26
+本地dat檔案存在!檢查遠端檔案是否存在...
+遠端GEF_JSON存在!略過!
+--
+需要檢查的日期
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_12_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_12_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_12_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_12_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_12_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#1 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_12_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_12_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_13_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_13_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_13_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_13_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_13_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_13_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_13_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_13_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_13_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_13_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#2 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_13_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_13_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_14_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_14_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_14_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_14_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_14_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_14_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_14_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_14_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_14_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_14_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#3 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_14_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_14_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_15_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_15_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_15_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_15_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_15_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_15_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_15_30_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_15_30_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_15_40_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_15_40_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#4 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_15_50_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_15_50_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_16_00_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_16_00_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_16_10_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_16_10_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_16_20_00.dat
+本地dat檔案存在!檢查遠端檔案是否存在...
+curl.exe -s -d "{\"Version\":\"20200824a\",\"SiteName\":\"[20200729GEFA]Taiwan-NewTaipeiCity-HuangZuiShan(HUZS)\",\"GEF_JSON_FileName\":\"2020_11_16_16_20_00.json\",\"CMD\":\"Exist?\"}" -k -H "Content-Type: application/json" -X POST https://cgrg.synology.me/TWGEFN/api/GEF_tool.php
+遠端GEF_JSON存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_16_30_00.dat
+本地dat檔案不存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_16_40_00.dat
+本地dat檔案不存在!略過!
+--
+#5 本地dat檔案名稱: ..\..\..\Converted\Y2020\M11\D16\2020_11_16_16_50_00.dat
+本地dat檔案不存在!略過!
+--
+--

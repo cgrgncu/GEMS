@@ -1,0 +1,3 @@
+程式位置:
+轉檔後的dat資料路徑: ...\Converted\Y2020\....
+本程式的路徑...\Program\GEF_mat_convertor\Code\GEF_mat_convertor.m
